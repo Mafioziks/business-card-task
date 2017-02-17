@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vizītkarte</string>
+    <string name="area">Platība</string>
+    <string name="area_size">64,589 km&lt;sup&gt;2&lt;/sup&gt;</string>
+    <string name="capital">Galvaspilsēta</string>
+    <string name="capital_name">Rīga</string>
+    <string name="currency">Valūta</string>
+    <string name="currency_value">€ Eiro</string>
+    <string name="language">Valoda</string>
+    <string name="language_value">Latviešu</string>
+    <string name="latvia">Latvija</string>
+    <string name="population">Iedzīvotāju skaits</string>
+    <string name="population_amount">1,957,200</string>
+    <string name="read_more">Vairāk</string>
+    <string name="to">" "</string>
+    <string name="welcome">Laipni gaidīti</string>
+</resources>

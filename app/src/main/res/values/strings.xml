@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="latvia">Latvia</string>
+    <string name="welcome">Welcome</string>
+    <string name="to">To</string>
+    <string name="population">Population</string>
+    <string name="area">Area</string>
+    <string name="capital">Capital</string>
+    <string name="language">Language</string>
+    <string name="currency">Currency</string>
+    <string name="population_amount" translatable="false">1,957,200</string>
+    <string name="area_size" translatable="false">64,589 km&lt;sup&gt;2&lt;/sup&gt;</string>
+    <string name="capital_name">Riga</string>
+    <string name="language_value">Latvian</string>
+    <string name="currency_value">€ Euros</string>
+    <string name="read_more">Read More</string>
+</resources>
